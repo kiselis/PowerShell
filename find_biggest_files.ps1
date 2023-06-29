@@ -1,7 +1,7 @@
 # This script should find top biggest files in specified folder and its subfolders
 
 # Specify Path
-$FolderPath = "C:\Users\kisej"
+$FolderPath = "C:\Path\To\Folder"
 
 # Fetches the list of all files in the folder and subfolders
 $Files = Get-ChildItem -Path $FolderPath -Recurse -File
