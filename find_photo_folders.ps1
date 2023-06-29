@@ -1,7 +1,7 @@
 # This script should find all folders containing at least one photo
 
 # Specify Path
-$Folder = "C:\Users"
+$Folder = "C:\Path\To\Folder"
 
 # Function to check if the file is a picture
 function IsImageFile($filePath) {
