@@ -1,5 +1,5 @@
 # Finds the total number of files in disk C
-# It may take a few minutes to get the total file count
+# It may take a few minutes to get the total file count.
 
 $FolderPath = "C:\"
 
